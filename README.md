@@ -32,10 +32,10 @@ Predicciones de ataques al corazón según ciertas variables, las cuales se enum
 
   - 1 = Sí
   - 0 = No
-- target - Variable objetivo ~
+- output - Variable objetivo ~
 
-  - 0 = Menos posibilidades de sufrir un ataque al corazón
-  - 1 = Más posibilidades de sufrir un ataque al corazón
+  - 0 = Menos propensión de sufrir un ataque al corazón
+  - 1 = Más propensión de sufrir un ataque al corazón
 
 ### 2. Objetivo
 
