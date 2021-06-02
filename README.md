@@ -1,4 +1,4 @@
-# Ataques al corazón: Predicciones y análisis
+# Ataques al corazón: Predicciones y análisis - 89% Precisión
 
 Predicciones de ataques al corazón según ciertas variables, las cuales se enumeran a continuación:
 
